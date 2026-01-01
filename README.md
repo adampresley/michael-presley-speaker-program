@@ -2,6 +2,10 @@
 
 This repository contains source code to help design **loudspeaker enclosures**. It contains two versions of the application. The first is the original MS-DOS application written in BASIC, and the second is a GUI version written in Visual Basic. These programs were written by my Dad, somewhere between 1989-1992 (I don't know the exact date). My father wrote this because at the time he was building his own speaker enclosures. I am not an electrical engineer, but I am a software engineer. However, I am _terrible_ at math, and my father, as an engineer, was _good_ at it. So I had to look it up. Apparently the algorithms are based on something called [Thiele/Small parameters](https://en.wikipedia.org/wiki/Thiele/Small_parameters). 
 
+At the time he was writing this I was between 11-13 years old, so I don't remember much. I do remember that he had a [Tandy 1000](https://en.wikipedia.org/wiki/Tandy_1000), and I'm pretty sure the DOS version of this was developed on that computer. By the time my Dad got this computer, he passed down his Commodore 64. I was 12 when I started learning to program from books and magazines. My first experiences were BASIC on the C64, then BASIC on the Tandy, and later I started picking up some C. 
+
+This repository is here mostly so I don't lose this code and these memories. What a "blast to the past"!
+
 ## DOS version 
 
 I was able to successfully run the DOS version of the application, `SPEAKER.BAS`. 
