@@ -16,4 +16,9 @@ I was able to successfully run the DOS version of the application, `SPEAKER.BAS`
 
 ![Screenshot 5](./screenshots/speaker-dos-5.png)
 
+## Visual Basic version 
+
+Sadly, I couldn't get the Visual Basic version running. I successfully got Windows 95 running in DosBox-X, but I'm missing a component my dad clearly used that I do not have (I suspect an old-style ActiveX component). 
+
+![VB Version Failing](./screenshots/speaker-vb-1.png)
 
