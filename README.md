@@ -4,7 +4,7 @@ This repository contains source code to help design **loudspeaker enclosures**. 
 
 At the time he was writing this I was between 11-13 years old, so I don't remember much. I do remember that he had a [Tandy 1000](https://en.wikipedia.org/wiki/Tandy_1000), and I'm pretty sure the DOS version of this was developed on that computer. By the time my Dad got this computer, he passed down his Commodore 64. I was 12 when I started learning to program from books and magazines. My first experiences were BASIC on the C64, then BASIC on the Tandy, and later I started picking up some C. 
 
-This repository is here mostly so I don't lose this code and these memories. What a "blast to the past"!
+This repository is here mostly so I don't lose this code and these memories. What a "blast to the past"! Thanks Dad for inspiring me to persue software engineering. 2025 made 26 years I have worked in this field, and you were a big part of that. 
 
 ## DOS version 
 
